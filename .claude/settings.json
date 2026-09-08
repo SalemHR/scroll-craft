@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "nateherk": {
+      "source": {
+        "source": "github",
+        "repo": "SalemHR/scroll-craft"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "nateherk-design@nateherk": true
+  }
+}
