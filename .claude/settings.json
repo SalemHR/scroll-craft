@@ -12,13 +12,20 @@
     ]
   },
   "enabledPlugins": {
-    "nateherk-design@nateherk": true
+    "nateherk-design@nateherk": true,
+    "caveman@caveman": true
   },
   "extraKnownMarketplaces": {
     "nateherk": {
       "source": {
         "source": "github",
         "repo": "SalemHR/scroll-craft"
+      }
+    },
+    "caveman": {
+      "source": {
+        "source": "github",
+        "repo": "JuliusBrussee/caveman"
       }
     }
   }
